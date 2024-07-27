@@ -193,5 +193,247 @@
         ],
         "chat_title": " 望梅止渴典故的来历",
         "uuid": "c814628b-f48b-486a-b515-f1e3a9d97869"
+    },
+    {
+        "history": [
+            {
+                "raw_question": "SPC数据",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " SPC（Statistical Process Control，统计过程控制）数据是用于监控和控制生产过程的统计数据。以下是关于SPC数据的详细整理：\n\n### 1. 定义与目的\n- **定义**：SPC是一种使用统计方法来监控和控制生产过程的技术。\n- **目的**：通过收集和分析数据，识别和消除生产过程中的变异，确保产品质量的稳定性和一致性。\n\n### 2. 关键概念\n- **控制图**：用于显示过程数据的图表，帮助识别过程中的异常变化。\n  - **上下控制限（UCL和LCL）**：基于统计数据计算的上下限，用于判断过程是否在控制范围内。\n  - **中心线（CL）**：过程的平均值或目标值。\n- **样本**：从生产过程中抽取的一组数据，用于分析过程状态。\n- **变异**：过程中的不一致性，分为随机变异和特殊原因变异。\n\n### 3. 数据收集与分析\n- **数据收集**：\n  - **频率**：定期收集数据，如每小时、每批次等。\n  - **样本大小**：确定合适的样本大小以确保数据的代表性。\n- **数据分析**：\n  - **控制图分析**：绘制控制图，观察数据点是否在控制限内。\n  - **趋势分析**：识别数据中的趋势和模式，如上升趋势、下降趋势等。\n  - **能力分析**：评估过程能力，确定过程是否能够满足质量要求。\n\n### 4. 应用领域\n- **制造业**：监控生产线的各个环节，如机械加工、电子组装等。\n- **服务业**：监控服务质量，如客户等待时间、服务满意度等。\n- **医疗**：监控医疗过程，如手术时间、病人康复情况等。\n\n### 5. 实施步骤\n- **准备阶段**：\n  - **确定关键质量特性（KQC）**：确定需要监控的关键质量特性。\n  - **选择合适的控制图**：如X-bar and R图、X-MR图等。\n- **数据收集阶段**：\n  - **设计数据收集计划**：确定数据收集的时间、地点和方法。\n  - **收集初始数据**：用于计算控制限和中心线。\n- **数据分析阶段**：\n  - **绘制控制图**：根据收集的数据绘制控制图。\n  - **识别异常**：通过控制图识别过程中的异常变化。\n- **改进阶段**：\n  - **分析原因**：找出异常变化的原因。\n  - **采取措施**：制定改进措施并实施。\n  - **验证效果**：通过继续监控验证改进措施的效果。\n\n### 6. 优势与挑战\n- **优势**：\n  - **提高质量**：通过识别和消除变异，提高产品质量。\n  - **降低成本**：减少废品和返工，降低生产成本。\n  - **提高效率**：通过持续改进，提高生产效率。\n- **挑战**：\n  - **数据收集困难**：需要系统化的数据收集和管理。\n  - **人员培训**：需要对员工进行SPC知识和技能的培训。\n  - **持续改进**：需要持续的监控和改进，确保过程的稳定性。\n\n通过以上要点的详细展开，希望能帮助提问者更好地理解SPC数据及其应用。",
+                "finished": true,
+                "scrapped_data": []
+            }
+        ],
+        "chat_title": " SPC数据",
+        "uuid": "6976394c-729d-49c8-9b19-c6af80ec34b4"
+    },
+    {
+        "history": [
+            {
+                "raw_question": "assess和evaluate有什么区别",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " \"Assess\" 通常用于初步评估或测量，而 \"evaluate\" 则更强调详细和系统的分析和判断。",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "Background of requirement\nA vulnerability was identified in which data can be decrypted through a JTAG port, even in SSDs that\nsupport hardware encryption. As a countermeasure to this vulnerability, it is necessary to disable JTAG\nfor mass production. See also Meijer, Carlo, and Bernard Van Gastel. \"Self-encrypting deception:\nweaknesses in the encryption of solid state drives.\" 2019 IEEE Symposium on Security and Privacy\n(SP). IEEE, 2019. 翻译成中文",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " 要求背景\n在支持硬件加密的固态硬盘（SSD）中，通过JTAG端口可以解密数据，这一漏洞被识别出来。为了应对这一漏洞，需要在大规模生产中禁用JTAG。参见Meijer, Carlo, and Bernard Van Gastel. \"Self-encrypting deception: weaknesses in the encryption of solid state drives.\" 2019 IEEE Symposium on Security and Privacy (SP). IEEE, 2019.",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "从某某层面，英文怎么表达比较地道？",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " 从某某层面，英文可以表达为 \"From a certain perspective\" 或 \"From a particular standpoint\"。",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "翻译成英文：如文档描述",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " As described in the document",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "翻译成英文：据我们调查",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " According to our investigation",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "英语中，wonder的用法",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " 在英语中，\"wonder\"可以作为名词和动词使用。作为名词时，表示“奇迹”或“惊奇”；作为动词时，表示“想知道”或“感到惊奇”。",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "翻译成英文：我想知道这个日期的含义",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " \"I want to know the meaning of this date.\"",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "英语中放弃某一个功能怎么表达",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " 英语中可以用“give up”或“abandon”来表达放弃某一个功能。",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "英语中开发这个功能怎么表达",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " 在英语中，“开发这个功能”可以表达为 \"develop this feature\"。",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "使用场景怎么翻译",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " 使用场景可以翻译为 \"use case\"。",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "翻译：这个时间指的是工作日还是自然日？",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " 这个时间指的是工作日还是自然日？\n\n回答：这个时间指的是工作日。",
+                "finished": true,
+                "scrapped_data": []
+            },
+            {
+                "raw_question": "翻译成英文：这个时间指的是工作日还是自然日？",
+                "intention": "",
+                "search_keywords": [],
+                "search_results": [],
+                "scraped_data": [],
+                "summary": " Does this time refer to business days or calendar days?",
+                "finished": true,
+                "scrapped_data": []
+            }
+        ],
+        "chat_title": " assess和evaluate的区别",
+        "uuid": "a70da68a-26fb-4e99-ad2b-70c44a6330b8"
+    },
+    {
+        "history": [
+            {
+                "raw_question": "2026年冬奥会在哪",
+                "intention": "",
+                "search_keywords": [
+                    "2026年冬奥会地点",
+                    "2026WinterOlympicslocation"
+                ],
+                "search_results": [
+                    {
+                        "snippet": "The 2024 Paris Olympics are nearly upon us and mark the first fully attended Games since before the COVID-19 pandemic. The 2022 Winter Games in Beijing was limited to \"selected\" spectators, and ...",
+                        "title": "Future Olympics locations: Full list of host cities for 2026 ...",
+                        "link": "https://www.sportingnews.com/us/olympics/news/future-olympics-locations-host-cities-2026-2028-games/8a0bfcd22211e125d4afb14b",
+                        "engines": [
+                            "google",
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "The 2026 Winter Olympics (Italian: Olimpiadi invernali del 2026), officially the XXV Olympic Winter Games (Italian: XXV Giochi olimpici invernali) and also known as Milano Cortina 2026, is an upcoming international multi-sport event scheduled to take place from 6 to 22 February 2026 in three different regions and many locations, with the Italian cities of Milan and Cortina d'Ampezzo as the ...",
+                        "title": "2026 Winter Olympics",
+                        "link": "https://en.wikipedia.org/wiki/2026_Winter_Olympics",
+                        "engines": [
+                            "google",
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "Here are a variety of projects, cultural events and opportunities to actively participate in the Olympic and Paralympic Winter Games Milano Cortina 2026. We want to inspire the younger generations with the values of the Olympics and Paralympics. Discover initiatives around Italy for young people, schools and universities.",
+                        "title": "Homepage | Milano Cortina 2026",
+                        "link": "https://milanocortina2026.olympics.com/en",
+                        "engines": [
+                            "google",
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "2026年米兰科尔蒂纳冬奥会将会设立116个奖牌项目，其中2个项目目前仍处于“暂时入围”状态。相较于**2022年北京冬奥会**，2026年冬奥会加入了8个新项目，另外有1个项目被移除。 滑雪登山运动在2020年洛桑冬青奥会上取得成功后将在2026年冬奥会上完成冬奥首秀 ...",
+                        "title": "米兰科尔蒂纳2026：关于下届冬奥会您需要了解的重要信息",
+                        "link": "https://olympics.com/zh/news/milano-cortina-2026-top-things-to-know-about-next-olympic-winter-games",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo",
+                            "brave"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "2026年米兰-科尔蒂纳丹佩佐冬季奥运会（英语：XXV Winter Olympic Games），又称第25届冬季奥林匹克运动会。2026年米兰-科尔蒂纳丹佩佐冬奥会将于2026年2月6日至22日在意大利举行。2024年2月8日，2026年米兰科尔蒂纳冬奥会吉祥物正式公布。",
+                        "title": "2026年米兰-科尔蒂纳丹佩佐冬季奥运会_百度百科",
+                        "link": "https://baike.baidu.com/item/2026年米兰-科尔蒂纳丹佩佐冬季奥运会/23588161",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo",
+                            "brave"
+                        ],
+                        "category": "general"
+                    }
+                ],
+                "scraped_data": [],
+                "summary": " 2026年冬奥会将在意大利的米兰和科尔蒂纳丹佩佐举行。",
+                "finished": true,
+                "scrapped_data": [
+                    {
+                        "id": 1,
+                        "title": "2026年米兰-科尔蒂纳丹佩佐冬季奥运会_百度百科",
+                        "link": "https://baike.baidu.com/item/2026年米兰-科尔蒂纳丹佩佐冬季奥运会/23588161",
+                        "content": "2026年米兰-科尔蒂纳丹佩佐冬季奥运会_百度百科 网页新闻贴吧知道网盘图片视频地图文库资讯采购百科百度首页登录注册进入词条全站搜索帮助首页秒懂百科特色百科知识专题加入百科百科团队权威合作个人中心2026年米兰-科尔蒂纳丹佩佐冬季奥运会播报讨论上传视频2026年举行的第25届冬季奥林匹克运动会收藏查看我的收藏0有用+102026年米兰-科尔蒂纳丹佩佐冬季奥运会（英语：XXV Winter Olympic Games），又称第25届冬季奥林匹克运动会。2026年米兰-科尔蒂纳丹佩佐冬奥会将于2026年2月6日至22日在意大利举行。 [24]2024年2月8日，2026年米兰科尔蒂纳冬奥会吉祥物正式公布。 [26]中文名2026年米兰-科尔蒂纳丹佩佐冬季奥运会外文名The Olympic Winter Games Milano Cortina 2026 [16]举办时间2026年2月6日 至 2026年2月22日举办地点米兰、科尔蒂纳丹佩佐赛事类型冬季奥林匹克运动会主办机构国际奥林匹克委员会赛    区米兰赛区、科尔蒂纳丹佩佐赛区申奥口号一起梦想上一届2022年北京冬季奥运会下一届2030年冬季奥林匹克运动会主体育场朱塞佩·梅阿查球场，维罗纳圆形竞技场特殊意义意大利时隔20年再次举办冬奥赛事吉祥物蒂娜、（六个）弗洛 [26-27]目录1赛事筹备▪申办过程▪举办筹备2赛事项目3赛事场地▪开闭幕式▪境外举办4赛事文化▪会徽▪吉祥物5赛事之外▪举办理念▪赛事转播6中国冬奥▪滑雪▪雪橇▪雪车赛事筹备播报编辑申办过程候选城市出炉，土耳其埃枣堡堡尔祖鲁姆退出申办申奥城市揭晓2018年10月4日在阿根廷布宜诺斯艾利斯举行的国际奥委会执委会上，将加拿大卡尔加里、瑞典斯德哥尔摩、意大利米兰和科尔蒂纳丹佩佐列为2026年冬奥会举办候选城市，土耳其埃尔祖鲁姆市则因申办方案存在“较大挑战性”，而未能获得候选资格。 [3]加拿大承体凝卡尔加里退出申办2018年1巩己厦戏1月19日，加拿大卡尔加里市议会宣布退出申请2026年冬奥会润翻。该市市民曾公投反对申办冬奥。 [4]瑞典斯德哥尔摩和意大利元户询米兰、科尔蒂纳丹佩佐申办竞选2019年1月14日，国际奥委会宣布收到来自瑞典斯德哥尔摩和意大利米兰、科尔蒂纳丹佩佐申办2026年冬季奥运会的申办材料。5月24日，在距离确定举办城市投票前一个月前，国际奥委会发布了2026年冬奥会评估委员会对两候选地的评估报告。基于3月12日至16日及4月2日至6日的工作访问，及两候选城市的申办材料，这份报告将为国际奥委会委员在6月24日投票选举举办城市提供指导。意大利米兰、科尔蒂纳丹佩佐成功申办2019年6月24日，在国际奥委会第134次全会上，国际奥委会主席巴赫宣布意大利的米兰、科尔蒂纳丹佩佐获得2026年冬奥会举办权。当天，共有88名国际奥委会委员出席全会。除国际奥委会主席巴赫按惯例未参与投票外，来自意大利的三名委员与来自瑞典的两名委员也都没有参加投票，这样实际参加投票的国际奥委会委员为82人。米兰和科尔蒂纳丹佩佐获得47票，斯德哥尔摩和奥勒获得34票，另有一票弃权。对于意大利胜出的原因，国际奥委会主席托马斯·巴赫称是意大利对冬奥会支持率（83%）高于瑞典（55%），而意大利奥委会主席马拉戈认为是意大利团队陈述时临时调整策略，展现了意大利民众对奥运的热情。 [1-2] [5-7]申办成功意义本届冬奥会原另有奥地利格拉茨、瑞士锡永、日本札幌三个城市申办，但均已退出。米兰-科尔蒂纳丹佩佐申办成功后，这将是意大利第四次举办奥运会（不计取消的1944年冬季奥运会），也是继2006年都灵冬季奥运会之后时隔整整20年再次由意大利主办的冬季奥运会 [1-2]。举办筹备2022年7月，国际奥委会执委会于瑞士洛桑审议通过2026年米兰-科尔蒂纳冬奥会的项目设置和运动员配额方案，该届冬奥会或将产生116枚金牌(其中2个小项待定)，运动员配额提升墓厚棕至2900人。 [15]2023年5月13日，米兰冬奥会倒计时1000天工作部署动员大会在北京国家体育总局冬运中心花样滑冰训练馆举行。 [19]2023年9月8日，国际奥委会执委会通过决议，同意了有关2026年米兰-科尔蒂纳丹佩佐冬奥会短道速滑项目参赛年龄限制的修改。国际滑冰联盟此前将短道速滑选手的参赛年龄限制提高，并以此向国际奥委会提出修改2026年冬奥会参赛年龄的要求。国际奥委会同意后，意味着参加2026年冬奥会短道速滑比赛的选手，必须在2025年7月1日前至少年满17周岁。 [20]2023年11月30日，国际奥委会执委会审议通过2026年米兰-科尔蒂纳丹佩佐冬奥会高山滑雪、雪车和钢架雪车三个项目的资格赛体系。至此，本届冬奥会的所有8个大项乌元采、16个分项的资格赛体系已经全部确定。 [22]2"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Future Olympics locations: Full list of host cities for 2026 ...",
+                        "link": "https://www.sportingnews.com/us/olympics/news/future-olympics-locations-host-cities-2026-2028-games/8a0bfcd22211e125d4afb14b",
+                        "content": "Future Olympics locations: Full list of host cities for 2026, 2028 Games and beyond | Sporting NewsSkip to main contentWomen's March MadnessMen's March Madness TicketsWomen's March Madness TicketsFuture Olympics locations: Full list of host cities for 2026, 2028 Games and beyondSarah EffressThe 2024 Paris Olympics are nearly upon us and mark the first fully attended Games since before the COVID-19 pandemic. The 2022 Winter Games in Beijing was limited to \"selected\" spectators, and this one will be quite literally in the streets of one of the biggest cities in Europe. Temporary arenas have been constructed across the city, setting the stage for competitions that will take place at French landmarks like the Eiffel Tower and the Palace of Versailles. France built two new venues for the Games—an aquatics center and an arena for badminton and rhythmic gymnastics, in addition to the Olympic Village. This year's Olympic Games will officially be held from Friday, July 26 to Sunday, Aug. 11. Here's a look at future host cities for both the summer and winter games:MORE:  When do the Olympics start? Full schedule, dates, times for 2024 Summer Games in ParisWhere are the Olympics this year?The 2024 Olympics will take place in Paris. The city formally announced its intention to bid on June 23, 2015. After withdrawals that left only Paris and Los Angeles as candidate cities in July 2017, L.A. agreed to bid for the 2028 Olympics, effectively giving the 2024 Games to Paris. It's the 100th anniversary of the 1924 Paris Olympics. The city also hosted the Games in 1900 and is the second venue, after London, to host three times. Two new sports will debut, breakdancing and kayak cross, and there's even a competition set to take place in the Seine River, which is questionably ready for the event. The opening ceremony will also be held on the Seine, with a boat for each national delegation. It's free to watch for most spectators and several screens will be set up with speakers around the "
+                    },
+                    {
+                        "id": 3,
+                        "title": "2026 Winter Olympics",
+                        "link": "https://en.wikipedia.org/wiki/2026_Winter_Olympics",
+                        "content": "2026 Winter Olympics - WikipediaMain pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonateHelpLearn to editCommunity portalRecent changesUpload fileCreate account Log inPages for logged out editors learn moreToggle Bidding process subsectionDevelopment and preparationsToggle Development and preparations subsectionSpeed Skating venue selectionConcerns about sliding sportsToggle Venues subsectionCortina d'Ampezzo ClusterVal di Fiemme ClusterParticipating National Olympic CommitteesToggle Marketing subsectionCorporate sponsorshipToggle the table of contentsAfrikaansالعربيةAzərbaycancaবাংলাБеларускаяБеларуская (тарашкевіца)БългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGaeilge한국어Հայերենहिन्दीHrvatskiBahasa IndonesiaÍslenskaItalianoעבריתКыргызчаLatviešuLëtzebuergeschLietuviųMagyarBahasa MelayuМонголNederlands日本語Norsk bokmålОлык марийPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSuomiSvenskaTagalogไทยTürkçeУкраїнськаاردوTiếng Việt粵語中文What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata itemDownload as PDFPrintable versionFrom Wikipedia, the free encyclopediaMulti-sport event in Milan and Cortina d'Ampezzo, Italy\"2026 Olympics\", \"Milano-Cortina 2026\", \"Milano Cortina 2026\", \"Milan 2026\", and \"Cortina 2026\" redirect here. For the Winter Paralympics, see 2026 Winter Paralympics. For the Summer Youth Olympics in Dakar, Senegal, see 2026 Summer Youth Olympics.XXV Olympic Winter GamesEmblem of the 2026 Winter OlympicsLocationMilan and Cortina d'Ampezzo, ItalyMottoSognando insieme[citation needed] (English: Dreaming together)Events116 in 8 sportsOpening6 February 2026 (in 18 months)Closing22 February 2026Opened byPresident Sergio Mattarella (expected)StadiumSan Siro (opening ceremony)Verona Arena (closing ceremony)Winter← Beijing 2022French Alps 2030 →Summer← Paris 2024Los Angeles 2028 →2026 Winter Paralympics"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Homepage | Milano Cortina 2026",
+                        "link": "https://milanocortina2026.olympics.com/en",
+                        "content": "Homepage | Milano Cortina 2026  Skip to main content        Olympic Winter Games   Feb 6 - 22, 2026 |  Paralympic Winter Games   Mar 6 - 15, 2026 Seleziona una lingua ItalianEnglishGermanFrench    Login Fan26         Ticketing Hospitality Shop    Close     SuggestionsFan26Italia dei GiochiCortina                  The Games   About Us   Our Projects   Join the Games   Partners   News Ticketing Hospitality Shop                   Fan26   Discover the Games    Ticketing Hospitality Shop   Close     ITENDEFR    Join Fan26       Home      The Games      About Us      Our projects      Join the Games      Partners      News    Ticketing Hospitality Shop Ticketing Hospitality Shop          Explore  Home               Explore  The Games      SportsVenuesCeremonies         Explore  About Us      FondazioneBoardBrandMascotsSustainabilityLegacy         Explore  Our projects       Education Programme Gen26Cultural Olympiad         Explore  Join the Games      Fan26Volunteers ProgrammeWork with UsItalia dei GiochiBecome a PartnerBecome an Impact ProviderBecome a Licensee         Explore  Partners               Explore  News       ITENDEFR Go to Milano Cortina 2026Fan26Discover the GamesProfileLog out\t>Ticketing Hospitality Shop Ticketing Hospitality Shop Nome UtenteProfileLogoutGo to Milano Cortina 2026      The Ticketing platform is openThe dream starts now. Don’t miss your chance to register on the new Milano Cortina 2026 ticketing platform and secure a priority spot to buy your tickets  Sign up now   Join Fan26Join the Milano Cortina 2026 Digital Community now and access exclusive events and benefits.   Italia dei GiochiDiscover how to experience the excitement of the Olympic and Paralympic Winter Games Milano Cortina 2026 in your area.  Shop OnlineDiscover the first Milano Cortina 2026 apparel collections.Don’t miss out on our official merchandise!                   Days Hours Min Sec Time left until the Olympic Paralympic  Winter Games Milano Cortina 2026   Join Fan26Join th"
+                    }
+                ]
+            }
+        ],
+        "chat_title": " 2026年冬奥会在哪",
+        "uuid": "1b60c5a4-619b-4a26-bb22-44c6de5fdac6"
     }
 ]

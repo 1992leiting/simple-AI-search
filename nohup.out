@@ -1,0 +1,91 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8500
+  Network URL: http://192.168.50.38:8500
+  External URL: http://3.0.2.98:8500
+
+2024-07-27 09:00:40.691 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpx/_transports/default.py", line 69, in map_httpcore_exceptions
+    yield
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpx/_transports/default.py", line 233, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpcore/_sync/connection_pool.py", line 216, in handle_request
+    raise exc from None
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpcore/_sync/connection_pool.py", line 196, in handle_request
+    response = connection.handle_request(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    return self._connection.handle_request(request)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpcore/_sync/http11.py", line 143, in handle_request
+    raise exc
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpcore/_sync/http11.py", line 113, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpcore/_sync/http11.py", line 186, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpcore/_sync/http11.py", line 238, in _receive_event
+    raise RemoteProtocolError(msg)
+httpcore.RemoteProtocolError: Server disconnected without sending a response.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/_base_client.py", line 978, in _request
+    response = self._client.send(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpx/_client.py", line 1015, in _send_single_request
+    response = transport.handle_request(request)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpx/_transports/default.py", line 232, in handle_request
+    with map_httpcore_exceptions():
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/httpx/_transports/default.py", line 86, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.RemoteProtocolError: Server disconnected without sending a response.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 75, in exec_func_with_error_handling
+    result = func()
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 574, in code_to_exec
+    exec(code, module.__dict__)
+  File "/edisk/projects/ai_search_web/chat_main.py", line 180, in <module>
+    start_search()
+  File "/edisk/projects/ai_search_web/chat_main.py", line 64, in start_search
+    process['func']()
+  File "/edisk/projects/ai_search_web/functions.py", line 215, in sumarize
+    reponses = st.session_state.cont.write_stream(response)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/streamlit/runtime/metrics_util.py", line 408, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/streamlit/elements/write.py", line 167, in write_stream
+    for chunk in stream:  # type: ignore
+  File "/edisk/projects/ai_search_web/llm.py", line 15, in vllm_chat
+    completion = client.chat.completions.create(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/_utils/_utils.py", line 277, in wrapper
+    return func(*args, **kwargs)
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/resources/chat/completions.py", line 646, in create
+    return self._post(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/_base_client.py", line 1266, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/_base_client.py", line 942, in request
+    return self._request(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/_base_client.py", line 1002, in _request
+    return self._retry_request(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/_base_client.py", line 1079, in _retry_request
+    return self._request(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/_base_client.py", line 1002, in _request
+    return self._retry_request(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/_base_client.py", line 1079, in _retry_request
+    return self._request(
+  File "/home/leiting/miniconda3/envs/ais/lib/python3.10/site-packages/openai/_base_client.py", line 1012, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
