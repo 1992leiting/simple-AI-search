@@ -205,6 +205,150 @@
                 "summary": " SPC（Statistical Process Control，统计过程控制）数据是用于监控和控制生产过程的统计数据。以下是关于SPC数据的详细整理：\n\n### 1. 定义与目的\n- **定义**：SPC是一种使用统计方法来监控和控制生产过程的技术。\n- **目的**：通过收集和分析数据，识别和消除生产过程中的变异，确保产品质量的稳定性和一致性。\n\n### 2. 关键概念\n- **控制图**：用于显示过程数据的图表，帮助识别过程中的异常变化。\n  - **上下控制限（UCL和LCL）**：基于统计数据计算的上下限，用于判断过程是否在控制范围内。\n  - **中心线（CL）**：过程的平均值或目标值。\n- **样本**：从生产过程中抽取的一组数据，用于分析过程状态。\n- **变异**：过程中的不一致性，分为随机变异和特殊原因变异。\n\n### 3. 数据收集与分析\n- **数据收集**：\n  - **频率**：定期收集数据，如每小时、每批次等。\n  - **样本大小**：确定合适的样本大小以确保数据的代表性。\n- **数据分析**：\n  - **控制图分析**：绘制控制图，观察数据点是否在控制限内。\n  - **趋势分析**：识别数据中的趋势和模式，如上升趋势、下降趋势等。\n  - **能力分析**：评估过程能力，确定过程是否能够满足质量要求。\n\n### 4. 应用领域\n- **制造业**：监控生产线的各个环节，如机械加工、电子组装等。\n- **服务业**：监控服务质量，如客户等待时间、服务满意度等。\n- **医疗**：监控医疗过程，如手术时间、病人康复情况等。\n\n### 5. 实施步骤\n- **准备阶段**：\n  - **确定关键质量特性（KQC）**：确定需要监控的关键质量特性。\n  - **选择合适的控制图**：如X-bar and R图、X-MR图等。\n- **数据收集阶段**：\n  - **设计数据收集计划**：确定数据收集的时间、地点和方法。\n  - **收集初始数据**：用于计算控制限和中心线。\n- **数据分析阶段**：\n  - **绘制控制图**：根据收集的数据绘制控制图。\n  - **识别异常**：通过控制图识别过程中的异常变化。\n- **改进阶段**：\n  - **分析原因**：找出异常变化的原因。\n  - **采取措施**：制定改进措施并实施。\n  - **验证效果**：通过继续监控验证改进措施的效果。\n\n### 6. 优势与挑战\n- **优势**：\n  - **提高质量**：通过识别和消除变异，提高产品质量。\n  - **降低成本**：减少废品和返工，降低生产成本。\n  - **提高效率**：通过持续改进，提高生产效率。\n- **挑战**：\n  - **数据收集困难**：需要系统化的数据收集和管理。\n  - **人员培训**：需要对员工进行SPC知识和技能的培训。\n  - **持续改进**：需要持续的监控和改进，确保过程的稳定性。\n\n通过以上要点的详细展开，希望能帮助提问者更好地理解SPC数据及其应用。",
                 "finished": true,
                 "scrapped_data": []
+            },
+            {
+                "raw_question": "CPK和SPC的区别",
+                "intention": "",
+                "search_keywords": [
+                    "CPKvsSPC",
+                    "CPKandSPCdifferences",
+                    "StatisticalProcessControlvsCapabilityIndex"
+                ],
+                "search_results": [
+                    {
+                        "snippet": "Process Capability Index (Cpk) is a powerful statistical tool used in Statistical Process Control (SPC) to assess the performance and capability of a process. In today’s competitive business environment, process quality and stability are critical for delivering high-quality products or services, meeting customer expectations, and maintaining a competitive edge.",
+                        "title": "Understanding Process Capability Index (Cpk) [With Calculator]",
+                        "link": "https://www.learnleansigma.com/control/understanding-process-capability/",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "Process Capability and performance (Pp, Ppk, Cp, Cpk) are specification indicators relative to process dispersion and process centering. Process capability is a statistical measurement of a process’s ability to produce parts within specified limits consistently. In other words, it is the ability of the process to meet the design specification ...",
+                        "title": "Process Capability & Performance (Pp, Ppk, Cp, Cpk) - Six Sigma Study Guide",
+                        "link": "https://sixsigmastudyguide.com/process-capability-pp-ppk-cp-cpk/",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "Ppk: Performance Ratio Taking into Account Process Centering. Ppk is defined as the following: Ppk = Minimum (Ppu, Ppl) Ppu= (USL-Average)/3s. Ppl= (Average-LSL)/3s. Note, like Cp and Pp, the only difference between Cpk and Ppk is the use of the calculated standard deviation (s) instead of σ.",
+                        "title": "What Do the Process Capability/Performance Metrics Measure?",
+                        "link": "https://www.spcforexcel.com/knowledge/process-capability/what-do-process-capability-metrics-measure/",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "The only difference lies in the denominator for the Upper and Lower statistics: Cpk is calculated using the WITHIN standard deviation, while Ppk uses the OVERALL standard deviation. Without boring you with the details surrounding the formulas for the standard deviations, think of the within standard deviation as the average of the subgroup ...",
+                        "title": "Process Capability Statistics: Cpk vs. Ppk - Minitab",
+                        "link": "https://blog.minitab.com/en/process-capability-statistics-cpk-vs-ppk",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "Another difference between Cp and Cpk is that while Cp gives a description of form, Cpk provides that of form and location. Mathematically, Cpk is expressed as follows: Cpk = min { (µ – LSL) / 3 sigma, (USL – µ) / 3 sigma} Where: µ = Mean. It is important to note that the difference between Cp and Cpk indicates how far the average of the ...",
+                        "title": "The difference between Cp and Cpk and when they are used - Latest Quality",
+                        "link": "https://www.latestquality.com/difference-between-cp-and-cpk/",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "The difference between capability rates ( Cp and Cpk) and performance rates ( Pp and Ppk) is the method of estimating the statistical population standard deviation. The difference between the centralized rates ( Cp and Pp) and unilateral rates ( Cpk and Ppk) is the impact of the mean decentralization over process performance estimates.",
+                        "title": "Cp, Cpk, Pp and Ppk: Know How and When to Use Them - iSixSigma",
+                        "link": "https://www.isixsigma.com/capability-indices-process-capability/cp-cpk-pp-and-ppk-know-how-and-when-use-them/",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "Check the subtitles: English, česky, Deutsch What exactly is the SPC? How is it related to the Process Capability? And what are the differences?",
+                        "title": "Statistical Process Control vs. Process Capability - YouTube",
+                        "link": "https://www.youtube.com/watch?v=ZzDJvLNHBsw",
+                        "engines": [
+                            "duckduckgo",
+                            "qwant"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "1. True / False The in{control value for the mean and standard deviation are 10 and 3⁄40 respec-tively. More than this, the in{control mean is at the center line of the control chart and the in{control standard deviation is at the upper/lower control limits. 2. At time 1, the process is in{control because (choose one)",
+                        "title": "PDF Basic Methods of Statistical Process Control and Capability Analysis",
+                        "link": "https://www.pnw.edu/wp-content/uploads/2020/03/Lecture-Notes-3-7.pdf",
+                        "engines": [
+                            "duckduckgo",
+                            "qwant"
+                        ],
+                        "category": "general"
+                    }
+                ],
+                "scraped_data": [],
+                "summary": "### CPK和SPC的区别\n\n#### CPK (过程能力指数)\n- **定义**：CPK衡量的是过程在中心对齐时的性能，它评估过程输出落在规格限内的能力。[```3```](https://www.learnleansigma.com/control/understanding-process-capability/)\n- **计算**：CPK使用“within”标准偏差计算，比较过程均值与规格限的偏差。[```1```](https://blog.minitab.com/en/process-capability-statistics-cpk-vs-ppk)\n- **重点**：CPK强调过程的短期性能，假设过程是稳定的。\n\n#### SPC (统计过程控制)\n- **概念**：SPC是一种统计方法，用于监控过程的变异性和稳定性，确保过程输出在控制限内。[```2```](https://www.youtube.com/watch?v=ZzDJvLNHBsw)\n- **工具**：包括控制图、直方图等，用于识别过程的异常波动。[```3```](https://www.learnleansigma.com/control/understanding-process-capability/)\n- **目的**：确保过程稳定，满足质量标准，而不仅仅是评估性能。CPK是SPC分析的一部分，用于评估过程能力。\n\n#### 区别总结\n- **CPK**关注**过程性能**，尤其是与规格限的比较，强调短期稳定性。\n- **SPC**则是**持续监控过程**，不仅包括CPK的评估，还涉及整个过程的稳定性分析，使用多种统计工具来识别和控制过程波动。\n\n综上所述，CPK是SPC中用来评估过程能力的指标之一，而SPC是一个更广泛的框架，用于确保过程的稳定性和质量控制。[```1```](https://blog.minitab.com/en/process-capability-statistics-cpk-vs-ppk)",
+                "finished": true,
+                "scrapped_data": [
+                    {
+                        "id": 1,
+                        "title": "Process Capability Statistics: Cpk vs. Ppk - Minitab",
+                        "link": "https://blog.minitab.com/en/process-capability-statistics-cpk-vs-ppk",
+                        "content": "Process Capability Statistics: Cpk vs. PpkMinitab Statistical SoftwareMinitab Education HubStatistics & Predictive AnalyticsData Science & Machine LearningBusiness Analytics & IntelligenceStatistical Process ControlReliability & Life Data AnalysisContinuous ImprovementData Integration & Data PrepDiagramming & Mind MappingModel Deployment & ML OpsInnovation & Project ManagementEnergy & Natural ResourcesGovernment & Public SectorManufacturing & IndustrialSoftware & TechnologyInformation TechnologyCustomer Service & Contact CenterResources & ServicesLicensing & ActivationSupport DocumentationProcess Capability Statistics: Cpk vs. PpkMinitab Blog Editor|  8/12/2016Capability Analysis,Quality ImprovementBack when I used to work in Minitab Tech Support, customers often asked me, “What’s the difference between Cpk and Ppk?” It’s a good question, especially since many practitioners default to using Cpk while overlooking Ppk altogether. It’s like the '80s pop duo Wham!, where Cpk is George Michael and Ppk is that other guy.Poofy hairdos styled with mousse, shoulder pads, and leg warmers aside, let’s start by defining rational subgroups and then explore the difference between Cpk and Ppk.A rational subgroup is a group of measurements produced under the same set of conditions. Subgroups are meant to represent a snapshot of your process. Therefore, the measurements that make up a subgroup should be taken from a similar point in time. For example, if you sample 5 items every hour, your subgroup size would be 5.Formulas, Definitions, Etc.The goal of capability analysis is to ensure that a process is capable of meeting customer specifications, and we use capability statistics such as Cpk and Ppk to make that assessment. If we look at the formulas for Cpk and Ppk for normal (distribution) process capability, we can see they are nearly identical:The only difference lies in the denominator for the Upper and Lower statistics: Cpk is calculated using the WITHIN standard deviation, whil"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Statistical Process Control vs. Process Capability - YouTube",
+                        "link": "https://www.youtube.com/watch?v=ZzDJvLNHBsw",
+                        "content": "Statistical Process Control vs. Process Capability - YouTubeAboutPressCopyrightContact usCreatorAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new features© 2024 Google LLC"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Understanding Process Capability Index (Cpk) [With Calculator]",
+                        "link": "https://www.learnleansigma.com/control/understanding-process-capability/",
+                        "content": "Understanding Process Capability Index (Cpk) [With Calculator] - Learn Lean SigmaHome ToolsPareto Chart Creator I-MR Control Chart Analyzer P-Value Analyzer Process Capability Analyzer Histogram Analyzer View All Tools  ResourcesPractice Tests Articles Lean Six Sigma Glossary  Guides Templates CalculatorsUnderstanding Process Capability Index (Cpk) [With Calculator]Understanding Process Capability Index (Cpk) is crucial in Statistical Process Control (SPC). It measures a process's ability to meet specifications, providing insights into performance and stability. Higher Cpk values indicate better process capability, ensuring consistent, high-quality output.Daniel Croft is an experienced continuous improvement manager with a Lean Six Sigma Black Belt and a Bachelor's degree in Business Management. With more than ten years of experience applying his skills across various industries, Daniel specializes in optimizing processes and improving efficiency. His approach combines practical experience with a deep understanding of business fundamentals to drive meaningful change.Understanding Process Capability Index (Cpk) [With Calculator]Process Capability Index (Cpk) is a powerful statistical tool used in Statistical Process Control (SPC) to assess the performance and capability of a process. In today’s competitive business environment, process quality and stability are critical for delivering high-quality products or services, meeting customer expectations, and maintaining a competitive edge. Cpk provides important insights into a process’s ability to meet specifications and produce consistent results, making it an indispensable tool for quality professionals and process engineers.What is Process Capability Index (Cpk)?Recommended BookHow CPK is Calculated and InterpretedExample of Process Capability CalculationWhat is a good Cpk?Check out some of our Process Capability ToolsImportance of Cpk in Statistical Process ControlFactors Affecting CpkLimitations of CpkConclusionRefe"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Process Capability & Performance (Pp, Ppk, Cp, Cpk) - Six Sigma Study Guide",
+                        "link": "https://sixsigmastudyguide.com/process-capability-pp-ppk-cp-cpk/",
+                        "content": "Process Capability & Performance (Pp, Ppk, Cp, Cpk)30 Day No-Questions Asked GuaranteeDo the Work, Pass Your Exam, or Your $ Back.100% of candidates who complete my study guide report passing their exam! Full refund if you complete the study guide but fail your exam. This is your 100% Risk Free option!Six Sigma Study GuideStudy notes and guides for Six Sigma certification testsPass Your Six Sigma Black BeltPass Your Six Sigma Green BeltSix Sigma Study Guide ArticlesProcess Capability & Performance (Pp, Ppk, Cp, Cpk)Process Capability & Performance (Pp, Ppk, Cp, Cpk)Posted by Ted HessingProcess Capability and performance (Pp, Ppk, Cp, Cpk) are specification indicators relative to process dispersion and process centering. Process capability is a statistical measurement of a processâs ability to produce parts within specified limits consistently. In other words, it is the ability of the process to meet the design specification for a service or a product.Process capability is expressed as 6Ï, where Ï is the sample standard deviation of the process under a state of statistical control.Don’t like Ads? Neither do I. If you’re a member, just log in to avoid ads. If you’re not a member, what are you waiting for? Sign up here!Process capability refers to the inherent ability of a process to produce similar parts for a sustained time under a given set of conditions. A capable process is one where almost all the measurements fall inside the specification limit. In other words, a capable process is a process whose spread on the bell-shaped curve is narrower than the tolerance range.Why use a process capability studyProcess capability study helps in product and process design, vendor sourcing, production planning, and manufacturing process control.A few ways a process capability study helps:Assists designers in selecting or designing processesEstablishing an interval between samplingSpecifying requirements of new equipmentVendor selection based on process capabilityReducing v"
+                    },
+                    {
+                        "id": 5,
+                        "title": "Cp, Cpk, Pp and Ppk: Know How and When to Use Them - iSixSigma",
+                        "link": "https://www.isixsigma.com/capability-indices-process-capability/cp-cpk-pp-and-ppk-know-how-and-when-use-them/",
+                        "content": "Cp, Cpk, Pp and Ppk: Know How and When to Use ThemSix Sigma Costs and SavingsGet Six Sigma QualifiedProcess Sigma CalculatorSix Sigma Tools & TemplatesCapability Indices/Process CapabilityDesign of Experiments (DOE)Measurement Systems Analysis (MSA)/Gage R&RRobotic Process Automation/Machine Learning/Artificial IntelligenceDesign for Six Sigma (DFSS)How Is Six Sigma Different?Roles & ResponsibilitiesBusiness Process Management (BPM)Design for Six Sigma (DFSS)Robust Design/Taguchi MethodTheory of ConstraintsTotal Quality Management (TQM)Project Selection & TrackingAerospace and DefenseComputers & ElectronicsConsumer Food ProductsForest & Paper ProductsGovernment/Non-ProfitTransportation & LogisticsCertification ArticlesTraining Materials & AidsUniversities & CollegesCapability Indices/Process CapabilityCp, Cpk, Pp and Ppk: Know How and When to Use ThemCapability Indices/Process Capability Cp, Cpk, Pp and Ppk: Know How and When to Use ThemPublished: February 26, 2010 by Daniela MarzagãoFor many years industries have used Cp, Cpk, Pp and Ppk as statistical measures of process quality capability. Some segments in manufacturing have specified minimal requirements for these parameters, even for some of their key documents, such as advanced product quality planning and ISO/TS-16949. Six Sigma, however, suggests a different evaluation of process capability by measuring against a sigma level, also known as sigma capability.Incorporating metrics that differ from traditional ones may lead some companies to wonder about the necessity and adaptation of these metrics. It is important to emphasize that traditional capability studies as well as the use of sigma capability measures carry a similar purpose. Once the process is under statistical control and showing only normal causes, it is predictable. This is when it becomes interesting for companies to predict the current process’s probability of meeting customer specifications or requirements.Traditional capability rates are calcu"
+                    },
+                    {
+                        "id": 6,
+                        "title": "What Do the Process Capability/Performance Metrics Measure?",
+                        "link": "https://www.spcforexcel.com/knowledge/process-capability/what-do-process-capability-metrics-measure/",
+                        "content": "What Do the Process Capability/Performance Metrics Measure?Close this search box.SPC for Excel SoftwareDownload the Free DemoStatistical Tools in SPC for ExcelGage R&R Analysis/Measurement Systems AnalysisSPC Facilitator SeminarProcess Capability Improvement SeminarSPC for Excel and IndustriesSPC For Excel Around The WorldVideos – SPC for Excel – Statistical ToolsVideos – Statistical AnalysisSPC for Excel SoftwareDownload the Free DemoStatistical Tools in SPC for ExcelGage R&R Analysis/Measurement Systems AnalysisSPC Facilitator SeminarProcess Capability Improvement SeminarSPC for Excel and IndustriesSPC For Excel Around The WorldVideos – SPC for Excel – Statistical ToolsVideos – Statistical AnalysisWhat Do the Process Capability/Performance Metrics Measure?What Do the Process Capability/Performance Metrics Measure?(Note: all the previous SPC Knowledge Base in the process capability category are listed on the right-hand side. Select this link for information on the SPC for Excel software.)Cp, Cpk, Pp, Ppk – we have all seen these four metrics many times. But how often have we really thought about what these metrics are actually measuring and what they tell us about our process? Is one long-term and one short-term? Can Ppk be greater than Cpk? Don’t these four metrics measure the same thing?This month’s publication takes a deeper look at these four process capability/performance metrics. It explains why you have a good idea if your process is in statistical control and if it is operating near the center point of the specifications without even charting the data! You will see that the following are true:If the Cp and Pp metrics are essentially the same, the process is operating the best it can since the process is in statistical control.If the Cp and Pp metrics are not the same, the process is out of statistical control.If all four metrics are essentially the same, the process is operating the best it can since the process is in statistical control and the process is "
+                    },
+                    {
+                        "id": 7,
+                        "title": "PDF Basic Methods of Statistical Process Control and Capability Analysis",
+                        "link": "https://www.pnw.edu/wp-content/uploads/2020/03/Lecture-Notes-3-7.pdf",
+                        "content": "199 0 obj <>\rendobj<<7b2410dac4d08546a89f4e32631b967b>]>>x�b```d``jd`a``�a�c@\u0000>\u00066\u0006\u000e�8�\u0002aA ����q^�Lϕ���/�9d�gf�.�\"3���u�\\P=�\u001c��,��\"B<��\u0002|�jr�\u0012Z:ښR��bҜ\u001c슢J\u001a�2�*��fƦ@\u0019���\u0010P\u001fP�������������������EP�}���O\u0012P\u0007�\u0000?�\u0000G��p�PW��\u0004�����\b;'gw^\u001eA��\u000eQё�q�~!�މb��YU�e9�ՙ@S V�嗤�g\u0017\u0015\u0014�Vd\u0000m\u0006�\b� ������Y_����\u0000T�������uF��)p�S'M�5{���yӧ�̝���\u0002�\u0017hL\\p$���\u001b��]�q\u0015܀M��,[�e��@O-_�h��[�r@�@À*������+\b�\u0003H��\u0000�\u0012c�48�Q�\u0018\f\\` \u0014\b\u0002��J@�lll\u0002�A�c��VR\u0002iw\rMKKC֥�\u0006\u0017`R\u0002\u001a\u0000�1)aM\u000f@\u0019\t\u0006�ہ@�\u001b����)0��`v`����;G��/�\u0007�\u001a|�.\u0014uID\b�⸰�)G�D{�\r�Gw\u0004\u001f�1�am|/�!z��qB�'�\t9M7L\u001e\u001c\u0011�Pк���\u0014�\u0007&\u000fv�n(>�\u0013���D&�(�+\u000eO�\u001f$5\u001e�me�?��2��ЂY���Ba�\u0017�\u000b�t�\u000e\u0007�I�:��LX�tE��\b� Kc\u0003��:�?��\u0017XwD9��\u000b\u00144��6�fK�`�����w�/�16\u0001�ß�\u000fx6�1������A@`A3K\u0016�~�\u0003Y�y�\u0001�m\u000b�\u0012O�5\u0018q��9J3��i���aspN@�?W\u0004_�v>\u0007\u0013�\b\u001e\u0001�f\u0011ㅟX/����}(3�@<3��A1�/5�0v\u0005��\u001el���v�\u000b�\u001bK�\u001e0`\u0007\u0000\u0001\u0006\u0000+i�\u0005endstream\rendobj\r200 0 obj<>\rendobj\r202 0 obj<>>>\rendobj\r203 0 obj<>\rendobj\r204 0 obj<>\rendobj\r205 0 obj<>streamx��V{T�e\u001a�>f��C�,�SI�\u000fT�_@9!�m\b\u0006I�d��� \b���p1\u0014�\"��<3� ��m\u0018���\u0004�`PHXt�,�ҳ�i�vt�mI[9�|�r��\u000eV�������{y~���\f��]\u0018�e=\"�w\u0004��X\u001e\u0012\u0019\u001c�����4���H�d/��s��Ů��N�|���O��錌e�6ǅh3ru��,�%!K��\u0002\u0003\u0003��Ғt���t�HuVJR�:�~H�����$e��JM���<��-)3I������\u0010mZFvV��+R���Kg\u0018fvPn���`mbHFҞ(]fJ�&:&��+U�3�\u0011�3�\u001fh�\u001bWp�[頀<�v%���.[\u0007\u0019\u0012o�>q���L:,=!X�8z�2�[5�#�\u0000\u0019`�mf^ř���^_jԋč\u001c#��6�!�\"Ӱ\t��\u000eQ��n��a�OYA~zY�g�νa�p\u0004��b6�UC'oϴ��f�h�{�\u001f�|�Zo��c�\u0015\u001c�\u0014;{\u0015Y�鬡\u0005���\u0012�!.!�)\u001b4J#�(�\u001f\u000f����* Q$Sq6�\u0017�B�#�a���j��[���J���\r���/�fuP��\t�Ȥ\u0014t\u0013�\u000b���XP�,y=����\u0013o�\u0015\u0017�M8\u000bgU\f\u001bʌF��(����@ǫ�\u001eh�v��I8�v\u0012\u0016Jx�߭���׎|���|��\u0006�f����I��g�p�@J�s��b�\u0001O�Q�M|��l�qߑ\\�~c.�Y*�����r�:Yn\u0016��<�<���\u0004��4d�i���BKQ-xւ�ı*l\u001bw�m�\u0018�V)�ͣp��Qh�����1\u0007�p9P\f�9��fcǩ��䞍�D�Dx�O��\u001a�q\u0012�u�\u0015n�i���ǔ\\�����A��g`\u001fz˰\u0015?\u0010�9\u0005����Gf�7$P�X�\t\u0014��\u0007�A�\u0003hu�\u0010�OK#\u0002���M�\u0010@V�D�A\u001a�������j����D�\u0016�\u0015�\u0016ݔ��%\u0007 �O�\u001fhj��v\u000fĴ�=�\tS��\u0000�)Ⱥ�\u0003����A��ܫ�����g2i��^����R\u0003\u0014�)��\u000bK��ښ=\u0016��4�\f���8=��Ll.��\u001e����u�����5#Zei��t\u0000�\u001c�g���^��S\u0015f�iP�Y!�=�\u0003�!|�\u001a=����׉\tg5��'^��R\u0005��'���2K�ά4\u001d:�t�\u0015�m��I���߆��\u001d\u001bӜX�W�ڀ\u001f�_a����\u0012΁�\u001b�\u001b��i=2Lv�c��,�h�¸$n�\u0012=��\r��y����Z�k�Au\f\u0017����\u0005>��4f�\u0015:M&\r��\u000b�`2�\u001c�\tݯ�'&�j���5�]��n%�H�i�\f�J��t����Im\"��\u001cE^�\u0018�γp\u001b��-�i���Q�\u0005��\u000f؇GF��'����\u001c0���\u0015FqN�J�Ƣb�j���J�2\u001a\u0015\u000b��\u0011�"
+                    },
+                    {
+                        "id": 8,
+                        "title": "The difference between Cp and Cpk and when they are used - Latest Quality",
+                        "link": "https://www.latestquality.com/difference-between-cp-and-cpk/",
+                        "content": "The difference between Cp and Cpk and when they are usedHomeAboutQuality ArticlesLean ArticlesContact UsThe difference between Cp and Cpk and when they are usedHomeQuality ArticlesThe difference between Cp and Cpk and when they are usedThe difference between Cp and Cpk and when they are usedCp and Cpk are commonly referred to as capability indices and we will look at the difference between Cp and Cpk. They are both used to indicate the ability of a process to make a product that meets the specified requirement. They both compare the process spread to specification spread and are thus used to measure process capabilities. In any business, understanding the capability of a process is essential as this helps set achievable goals.Difference between Cp and CpkThe Cp index is the simplest indicator of a process capability. Cp is also referred to as “process potential index”; this index indicates whether or not the process is capable of producing products to meet specifications. It is measured using standard deviation and specification limits only. There is no indication of the ability of the process to adhere to a target value. Cp gives a description of forms.Mathematically, Cp is expressed as follows:Cp = (USL – LSL) / (6 x sigma);USL = upper specification limitLSL = lower specification limitCpk is more like an adjustment of Cp for a non-centered distribution effect. Cpk is known as the “process performance index” or “process capability index.” The difference between Cp and Cpk shows that as well as being able to indicate the capability of the process to produce within specification, in Cpk, there is an indication of the ability of the process to conform to the target value. Unlike the Cp, the Cpk is measured using standard deviation, specification limits and mean. Another difference between Cp and Cpk is that while Cp gives a description of form, Cpk provides that of form and location.Mathematically, Cpk is expressed as follows:Cpk = min {(µ – LSL) / 3 sigma, (USL – µ) "
+                    }
+                ]
             }
         ],
         "chat_title": " SPC数据",
