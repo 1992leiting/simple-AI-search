@@ -22,7 +22,7 @@
     ```
     conda create -n swift python=3.10
     conda activate swift
-    pip install swift
+    pip install 'ms-swift[all]' -U
     sh ft.sh
     ```
 
