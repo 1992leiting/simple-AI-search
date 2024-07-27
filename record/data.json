@@ -1,0 +1,197 @@
+[
+    {
+        "history": [
+            {
+                "raw_question": "2028年奥运会在哪里举办？",
+                "intention": "",
+                "search_keywords": [
+                    "2028年奥运会举办地",
+                    "2028Olympicslocation"
+                ],
+                "search_results": [
+                    {
+                        "snippet": "2024年巴黎奥运会，举办地：法国 巴黎。. 2028年洛杉矶奥运会，举办地：美国 洛杉矶。. 2032年奥运会，待定。. （截至2019年10月）。. 一、2020年东京奥运会. 2013年9月7日雅克·罗格宣布2020年奥运会的主办城市是东京（第32届夏季奥林匹克运动会）。. 东京申办成功 ...",
+                        "title": "2020年奥运会，2024年奥运会，2028年奥运会，2032年奥运会在那举办啊？_百度知道",
+                        "link": "https://zhidao.baidu.com/question/925274715496335619.html",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "今天，洛杉矶2028邀请全世界踏上追逐阳光的运动创新之旅，为奥运会注入以下特点：. 为运动员提供终极的个性化体验. 最大限度利用现有的体育基础设施，以确保留下可持续的长期遗产. 将体育和娱乐进行重新融合，在全球范围内刷新奥林匹克品牌形象，吸纳 ...",
+                        "title": "2028年洛杉矶夏季奥运会 - 在美国境内举行的夏季奥林匹克运动会",
+                        "link": "https://olympics.com/zh/olympic-games/los-angeles-2028",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "2028 七月 14 - 29 | 美国. 全部. 第三十四届奥运会将在洛杉矶举行。. 和1932和1984年一样，洛杉矶承诺将举办一届精彩的奥运会。. 关联. 国际奥委会.",
+                        "title": "2028年洛杉矶 | 夏季奥运会 - Olympics.com",
+                        "link": "https://olympics.com/zh/sport-events/los-angeles-2028",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "The 2028 Summer Olympics, officially known as the Games of the XXXIV Olympiad, and commonly known as Los Angeles 2028 or LA28, is an upcoming international multi-sport event scheduled to take place from July 14-30, 2028, in the United States. Los Angeles will be the main host city, with various events also scheduled to be held at other cities ...",
+                        "title": "2028 Summer Olympics",
+                        "link": "https://en.wikipedia.org/wiki/2028_Summer_Olympics",
+                        "engines": [
+                            "google",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "This is a new chapter of the LA28 Games Plan that consists of all the Olympic and Paralympic sports and the latest venue plan updates. The LA28 Paralympic venue plan will be launched at a later date. Stay tuned as more venues, disciplines, and medal events are unveiled in the coming years. See where your favorite sports will be contested at LA28.",
+                        "title": "Games Plan",
+                        "link": "https://la28.org/en/games-plan.html",
+                        "engines": [
+                            "google",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "2028 Summer Olympics. The 2028 Summer Olympics are scheduled to be held in Los Angeles, California, United States, from July 14-30, 2028. The Games will be hosted in and around Greater Los Angeles and Los Angeles County. The city's bid relied on a majority of existing venues and venues that had already been under construction or were planned ...",
+                        "title": "Venues of the 2028 Summer Olympics and Paralympics",
+                        "link": "https://en.wikipedia.org/wiki/Venues_of_the_2028_Summer_Olympics_and_Paralympics",
+                        "engines": [
+                            "google",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    }
+                ],
+                "scraped_data": [],
+                "summary": " 2028年奥运会将在洛杉矶举办。",
+                "finished": true,
+                "scrapped_data": [
+                    {
+                        "id": 1,
+                        "title": "2020年奥运会，2024年奥运会，2028年奥运会，2032年奥运会在那举办啊？_百度知道",
+                        "link": "https://zhidao.baidu.com/question/925274715496335619.html",
+                        "content": "2020å¹´å¥¥è¿ä¼ï¼2024å¹´å¥¥è¿ä¼ï¼2028å¹´å¥¥è¿ä¼ï¼2032å¹´å¥¥è¿ä¼å¨é£ä¸¾ååï¼_ç¾åº¦ç¥é2020å¹´å¥¥è¿ä¼ï¼2024å¹´å¥¥è¿ä¼ï¼2028å¹´å¥¥è¿ä¼ï¼2032å¹´å¥¥è¿ä¼å¨é£ä¸¾ååï¼2020å¹´å¥¥è¿ä¼ï¼2024å¹´å¥¥è¿ä¼ï¼2028å¹´å¥¥è¿ä¼ï¼2032å¹´å¥¥è¿ä¼å¨é£ä¸¾ååï¼ä¸ºä»ä¹æäººæ¾èï¼æäººæ¾å¹´è½»ï¼éå¿ç­é¢ï¼æ¬¢è¿å³æ³¨ç¥éå°æå»ºæ ç­ä¸»æä¹å»ç­é¢è®¿é®ä¸ªäººé¡µ2020å¹´ä¸äº¬å¥¥è¿ä¼ï¼ä¸¾åå°ï¼æ¥æ¬ä¸äº¬ã2024å¹´å·´é»å¥¥è¿ä¼ï¼ä¸¾åå°ï¼æ³å½ å·´é»ã2028å¹´æ´æç¶å¥¥è¿ä¼ï¼ä¸¾åå°ï¼ç¾å½ æ´æç¶ã2032å¹´å¥¥è¿ä¼ï¼å¾å®ãï¼æªè³2019å¹´10æï¼ãä¸ã2020å¹´ä¸äº¬å¥¥è¿ä¼2013å¹´9æ7æ¥éåÂ·ç½æ ¼å®£å¸2020å¹´å¥¥è¿ä¼çä¸»ååå¸æ¯ä¸äº¬ï¼ç¬¬32å±å¤å­£å¥¥æå¹åè¿å¨ä¼ï¼ãä¸äº¬ç³åæååï¼æä¸ºç»§å·´é»ï¼æ³å½ï¼ãä¼¦æ¦ï¼è±å½ï¼ãæ´æç¶ï¼ç¾å½ï¼åéå¸ï¼å¸èï¼åçä¸çç¬¬5ä¸ªè³å°ä¸¤æ¬¡ä¸¾åå¤å­£å¥¥è¿ä¼çåå¸ï¼åæ¶ä¹æ¯äºæ´²ç¬¬ä¸ä¸ªã2018å¹´7æ22æ¥ï¼ä¸äº¬å¥¥ç»å§å¬å¸2020å¹´ä¸äº¬å¥¥è¿ä¼åç¥¥ç©åå­ï¼èè²åç¥¥ç©è¢«å½åä¸ºMiraitowaï¼å¯ææªæ¥åæ°¸æãäºã2024å¹´å·´é»å¥¥è¿ä¼2017å¹´8æ1æ¥ï¼å½éå¥¥å§ä¼å®£å¸ï¼å·´é»æä¸º2024å¹´å¥¥è¿ä¼ä¸»ååå¸ï¼å°äº2024å¹´8æ2æ¥å°2024å¹´8æ18æ¥å¨æ³å½é¦é½å·´é»ä¸¾åï¼ç¬¬33å±å¤å­£å¥¥æå¹åè¿å¨ä¼ï¼ï¼è¿æ¯ç»§1924å¹´å·´é»å¥¥è¿ä¼åï¼æ¶éæ´æ´100å¹´ï¼å·´é»åæ¬¡ä¸¾åå¥¥è¿ä¼ãå·´é»ä¹æä¸ºä¼¦æ¦ä¹åï¼åä¸ä¸ªä¸¾åè¿ä¸æ¬¡å¥¥è¿ä¼çåå¸ãä¸ã2028å¹´æ´æç¶å¥¥è¿ä¼ç¬¬34å±å¤å­£å¥¥æå¹åè¿å¨ä¼ï¼2017å¹´9æ13æ¥ï¼å½éå¥¥å§ä¼æ­£å¼ç¡®è®¤æ´æç¶ä¸º2028å¹´å¤å­£å¥¥è¿ä¼åæ®å¥¥ä¼ä¸¾ååå¸ï¼è¿æ¯ç»§1932å¹´æ´æç¶å¥¥è¿ä¼å1984å¹´æ´æç¶å¥¥è¿ä¼åï¼æ´æç¶å°ç¬¬ä¸æ¬¡ä¸¾åå¤å­£å¥¥è¿ä¼ï¼ä¹æ¯ç»§1996å¹´äºç¹å°å¤§å¥¥è¿ä¼åï¼æ¶é32å¹´ï¼å¥¥è¿ä¼åæ¬¡æ¥å°ç¾å½æ¬åãåã2032å¹´å¥¥è¿ä¼æªè³2019å¹´10æï¼2032å¹´å¤å­£å¥¥æå¹åè¿å¨ä¼è¿æªç¡®å®å·ä½ä¸¾åå"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Venues of the 2028 Summer Olympics and Paralympics",
+                        "link": "https://en.wikipedia.org/wiki/Venues_of_the_2028_Summer_Olympics_and_Paralympics",
+                        "content": "Venues of the 2028 Summer Olympics and Paralympics - WikipediaMain pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonateHelpLearn to editCommunity portalRecent changesUpload fileCreate account Log inPages for logged out editors learn moreVenues and infrastructureToggle Venues and infrastructure subsectionSouth Bay Sports ParkLong Beach Sports ParkSouthern California venuesFootball (soccer) venuesToggle the table of contentsVenues of the 2028 Summer Olympics and ParalympicsWhat links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata itemDownload as PDFPrintable versionFrom Wikipedia, the free encyclopediaPart of a series on2028 Summer OlympicsBid process (bid details)Development (venues, torch relay)Opening ceremony (flag bearers)Chronological summaryMedal table (medallists)World and Olympic recordsClosing ceremony (flag bearers)The 2028 Summer Olympics are scheduled to be held in Los Angeles, California, United States, from July 14–30, 2028. The Games will be hosted in and around Greater Los Angeles and Los Angeles County. The city's bid relied on a majority of existing venues and venues that had already been under construction or were planned regardless of the Games. The majority of venues are divided into clusters known as \"sports parks\", situated in Downtown Los Angeles, the San Fernando Valley, Carson (at California State University, Dominguez Hills), and Long Beach. No new permanent venues are being built specifically for the Games. The Olympic Village will be situated on the UCLA campus, while USC will host members of the media.[1][2][3][4]The Los Angeles Memorial Coliseum and the Rose Bowl will host athletics and football (soccer), respectively.[5] Both will become the first stadiums to have ever hosted three different Olympiads.[6][7] BMO Stadium, which opened in 2018 as the home of Major League Soccer's Los Angeles FC, will host soccer and several events in athl"
+                    },
+                    {
+                        "id": 3,
+                        "title": "2028 Summer Olympics",
+                        "link": "https://en.wikipedia.org/wiki/2028_Summer_Olympics",
+                        "content": "2028 Summer Olympics - WikipediaMain pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonateHelpLearn to editCommunity portalRecent changesUpload fileCreate account Log inPages for logged out editors learn moreDevelopment and preparationsToggle Development and preparations subsectionVenues and infrastructureToggle The Games subsectionToggle Marketing subsectionCorporate sponsorshipToggle External links subsectionToggle the table of contentsAfrikaansАԥсшәаالعربيةAragonésAsturianuAzərbaycancaBasa BaliবাংলাБеларускаяБеларуская (тарашкевіца)БългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGalego한국어Հայերենहिन्दीHrvatskiIdoBahasa IndonesiaÍslenskaItalianoעבריתქართულიҚазақшаКыргызчаLatviešuLëtzebuergeschLietuviųMagyarമലയാളംBahasa MelayuМонголNederlands日本語Norsk bokmålОлык марийPolskiPortuguêsRomânăРусскийසිංහලSimple EnglishSlovenčinaSlovenščinaکوردیСрпски / srpskiSuomiSvenskaTagalogதமிழ்ไทยTürkçeУкраїнськаاردوTiếng Việt吴语Yorùbá粵語中文What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata itemDownload as PDFPrintable versionWikimedia CommonsWikivoyageFrom Wikipedia, the free encyclopediaMulti-sport event in Los Angeles, California, US\"2028 Olympics\", \"Los Angeles 2028\", and \"LA28\" redirect here. For the Summer Paralympics, see 2028 Summer Paralympics.Games of the XXXIV OlympiadOne of the 37 variations of the Los Angeles 2028 logoLocationLos Angeles,  United StatesEvents35 sports (expected)OpeningJuly 14, 2028 (in 48 months)ClosingJuly 30, 2028Opened byPresident of the United States (expected)StadiumLos Angeles Memorial ColiseumSoFi StadiumSummer← Paris 2024Brisbane 2032 →Winter← Milano–Cortina 2026French Alps 2030 →2028 Summer ParalympicsPart of a series on2028 Summer OlympicsBid process (bid details)Development (venues, torch relay)Opening ceremony (flag bearers)Chronological summaryMedal table (medallists)World and Olympic recor"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Games Plan",
+                        "link": "https://la28.org/en/games-plan.html",
+                        "content": "Sign up for the LA28 NewsletterLA28 Olympic & Paralympic Games PlanThe updated LA28 Games Plan reflects the bounty of existing world-class venues in LA, offering the best possible experience for athletes and fans, while supporting LA28’s commitment to fiscal responsibility and sustainability. When LA28 won the bid back in 2017, we shared a Games Plan that reflected the best venues for the sports anticipated in the LA28 Games. Since then, LA28 has introduced new sports, new disciplines are being considered, and new venues have been built.This is a new chapter of the LA28 Games Plan that consists of all the Olympic and Paralympic sports and the latest venue plan updates. The LA28 Paralympic venue plan will be launched at a later date. Stay tuned as more venues, disciplines, and medal events are unveiled in the coming years.See Press Release For More InformationFeatured SportsWheelchair BasketballCheck out the venuesSee where your favorite sports will be contested at LA28.Blind Football (Soccer)Trampoline GymnasticsWheelchair BasketballFeatured VenuesDowntown Los Angeles, CASepulveda Basin Recreation AreaSign up to receive updates onthe Road to Los Angeles.United States of AmericaBolivia (Plurinational State of)Bosnia and HerzegovinaCentral African RepublicDemocratic People's Republic of KoreaDemocratic Republic of the CongoGambia (Republic of The)Iran (Islamic Republic of)Lao People’s Democratic RepublicMicronesia (Federated States of)Saint Kitts and NevisSaint Vincent and the GrenadinesSao Tome and PrincipeUnited Kingdom of Great Britain and Northern IrelandUnited Republic of TanzaniaVenezuela, Bolivarian Republic ofBy clicking \"sign up now,\" I am consenting to receive email updates and partner offers from LA28 and other organizations in the Olympic and Paralympic family, including the International Olympic Committee.I agree to the Terms of Use and acknowledge that my information will be used as described in LA28's Privacy Policy."
+                    }
+                ]
+            }
+        ],
+        "chat_title": " 2028年奥运会在哪里举办？",
+        "uuid": "a69e92b9-87bd-4728-85a7-d4f64d8517dc"
+    },
+    {
+        "history": [
+            {
+                "raw_question": "望梅止渴这个典故的来历",
+                "intention": "",
+                "search_keywords": [
+                    "望梅止渴典故来历",
+                    "望梅止渴出处",
+                    "望梅止渴故事"
+                ],
+                "search_results": [
+                    {
+                        "snippet": "望梅止渴（拼音wàng méi zhǐ kě）是一则由寓言故事演化而来的成语，成语最早出自《世说新语·假谲》。望梅止渴指想象杨梅，流出口水而解渴，比喻从不切实际的空想中来宽慰自己；连动式结构，在句子中主要用作宾语、定语等。",
+                        "title": "望梅止渴（汉语成语）_百度百科",
+                        "link": "https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "釋 義. 曹操編造前方梅林結了很多果實，誘使士兵流出口水以解渴的故事。. 典出南朝宋．劉義慶《世說新語．假譎》。. 後用「望梅止渴」比喻以空想來安慰自己。. 「 畫餅充飢 」. 典故說明. 東漢末年，曹操帶領著大軍要去討伐張繡，走到半路，因為天氣十分 ...",
+                        "title": "望梅止渴 [正文] - 成語檢視 - 教育部《成語典》2020 [基礎版]",
+                        "link": "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=26&webMd=1&la=0",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "望梅止渴（拼音wàng méi zhǐ kě）是一則由寓言故事演化而來的成語，成語最早出自《 世説新語 ·假譎》。. [1] 望梅止渴指想象楊梅，流出口水而解渴，比喻從不切實際的空想中來寬慰自己； [2] 連動式結構，在句子中主要用作賓語、定語等。. [1] 中文名 ...",
+                        "title": "望梅止渴（漢語成語）_百度百科",
+                        "link": "https://baike.baidu.hk/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448",
+                        "engines": [
+                            "qwant",
+                            "duckduckgo"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "\"望梅止渴\"是大家熟悉的一个成语，它出典于三国时期的一个小故事，在《三国演义》第二十一回中也有叙述。 一次，曹操和刘备同来到后园的小亭对饮，曹操说：\"适见枝头梅子青青，忽感去年征张绣时，道上缺水，将士皆渴，吾心生一计，以鞭虚指曰：'前有梅林'，军士闻之口皆生唾，由是不渴。",
+                        "title": "望梅止渴故事简介_望梅止渴历史评价_望梅止渴故事典故_望梅止渴-趣历史",
+                        "link": "https://www.qulishi.com/huati/wangmeizhike/",
+                        "engines": [
+                            "duckduckgo",
+                            "brave"
+                        ],
+                        "category": "general"
+                    },
+                    {
+                        "snippet": "望梅止渴（拼音wàng méi zhǐ kě）是一则由寓言故事演化而来的成语，成语最早出自《世说新语·假谲》。望梅止渴指想象杨梅，流出口水而解渴，比喻从不切实际的空想中来宽慰自己；连动式结构，在句子中主要用作宾语、定语等。",
+                        "title": "望梅止渴",
+                        "link": "https://baike.baidu.com/item/望梅止渴/1448",
+                        "engines": [
+                            "duckduckgo",
+                            "brave"
+                        ],
+                        "category": "general"
+                    }
+                ],
+                "scraped_data": [],
+                "summary": " ### 望梅止渴的来历\n\n#### 成语出处\n- **最早出自**：《世说新语·假谲》 [```1```](https://baike.baidu.com/item/望梅止渴/1448) [```2```](https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448) [```3```](https://www.qulishi.com/huati/wangmeizhike/)\n- **原文**：“魏武行役，失汲道，军皆渴，乃令曰：‘前有大梅林，饶子，甘酸可以解渴。’士卒闻之，口皆出水，乘此得及前源。”\n\n#### 成语故事\n- **背景**：东汉末年，曹操率领部队去讨伐张绣，时值盛夏，天气炎热，士兵们口渴难耐。\n- **情节**：曹操见士兵们口渴，下令队伍原地休息，派人寻找水源但未果。曹操心想情况严重，于是用马鞭指着前方的山坡，大声对手下的将士说：“前有大梅林，饶子，甘酸可以解渴。”\n- **结果**：士兵们一听说梅子及梅子的酸汁，自然而然地想像起酸味，从而流出口水，顿时不觉得那么渴了。曹操立即指挥队伍行进，终于带领队伍成功找到了水源，大家痛痛快快的喝了水，精神焕发的继续行军。 [```1```](https://baike.baidu.com/item/望梅止渴/1448) [```2```](https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448) [```3```](https://www.qulishi.com/huati/wangmeizhike/)\n\n#### 成语寓意\n- **寓意**：曹操利用了人对酸梅子的条件反射，让士兵们看到了希望，鼓舞了士气。既解决了士兵们口渴难耐的问题，又加快了行军的速度。这则寓言告诉人们，在遇到困难的时候，不要一味地畏缩不前，应该用对成功的渴望来激励自己，这样就会有勇气去战胜困难，成功的取得往往存在于再坚持一下的努力之中。 [```1```](https://baike.baidu.com/item/望梅止渴/1448) [```2```](https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448) [```3```](https://www.qulishi.com/huati/wangmeizhike/)\n\n#### 成语运用\n- **用法**：比喻从不切实际的空想中来宽慰自己，眼望梅林，流出口水而解渴。连动式结构，主要用作宾语、定语等。\n- **示例**：\n  - 姚雪垠《李自成》：“她不能不在心中承认李信不造反，离开部队，确实是等着就擒，而她指望日后受招安也只是望梅止渴。” [```1```](https://baike.baidu.com/item/望梅止渴/1448) [```2```](https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448)\n  - 陈伯吹《作家楼的窗口》：“生活在离乱的封建社会中的诗人，吟咏出章话般空灵的境界，抒发胸中美好的愿望，是可以理解的，遗憾的是没有实现的可能。说得过分些，只能是望梅止渴的幻想而已。” [```1```](https://baike.baidu.com/item/望梅止渴/1448) [```2```](https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448)\n  - 鲁迅《二心集・张资平氏的“小说学”》：现在我将《张资平全集》和“小说学”的精华，提炼在下面，献这些崇拜家，算是“望梅止渴”云。 [```1```](https://baike.baidu.com/item/望梅止渴/1448) [```2```](https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448)\n  - 巴金《随想录》：“望梅止渴、画饼充饥的年代早已过去，人们要听的是真话。” [```1```](https://baike.baidu.com/item/望梅止渴/1448) [```2```](https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448)\n\n#### 成语辨析\n- **望梅止渴与画饼充饥**：\n  - **望梅止渴**：比喻愿望无法实现，只能借助想象来安慰自己。\n  - **画饼充饥**：比喻徒有虚名的东西于事无补，也比喻用空想来自我安慰。\n  - **区别**：两者意义相近，有时一起连用，但“望梅止渴”更强调愿望无法实现，而“画饼充饥”更强调徒有虚名。 [```1```](https://baike.baidu.com/item/望梅止渴/1448) [```2```](https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448)\n\n### 总结\n望梅止渴这个成语最早出自《世说新语·假谲》，讲述了曹操在率领部队行军时，遇到缺水的困境，通过告诉士兵前方有大梅林，鼓舞士气，成功找到水源的故事。这个成语比喻从不切实际的空想中来宽慰自己，告诉人们在遇到困难时，应该用对成功的渴望来激励自己，战胜困难。",
+                "finished": true,
+                "scrapped_data": [
+                    {
+                        "id": 1,
+                        "title": "望梅止渴",
+                        "link": "https://baike.baidu.com/item/望梅止渴/1448",
+                        "content": "望梅止渴（汉语成语）_百度百科 网页新闻贴吧知道网盘图片视频地图文库资讯采购百科百度首页登录注册进入词条全站搜索帮助首页秒懂百科特色百科知识专题加入百科百科团队权威合作个人中心望梅止渴[wàng méi zhǐ kě]播报讨论上传视频汉语成语展开7个同名词条收藏查看我的收藏0有用+10望梅止渴（拼音wàng méi zhǐ kě）是一则由寓言故事演化而来的成语，成语最早出自《世说新语·假谲》。 [1]望梅止渴指想象杨梅，流出口水而解渴，比喻从不切实际的空想中来宽慰自己； [2]连动式结构，在句子中主要用作宾语、定语等。 [1]中文名望梅止渴拼    音wàng méi zhǐ kě近义词画饼充饥、掩耳盗铃反义词名副其实、实事求是出    处《世说新语·假谲》注    音ㄨㄤˋ ㄇㄟˊ ㄓㄧˇ ㄎㄜˇ语法结构连动式语法属性作宾语、定语目录1成语出处2成语故事3成语寓意4成语运用5成语辨析成语出处播报编辑《世说新语·假谲》：“魏武行役，失汲道，军皆渴，乃令曰：‘前有大梅林，饶子，甘酸可以解渴。’士卒闻之，口皆出水，乘此得及前源。” [1]后世据此典故引申出成语“望梅止渴”。 [1]成语故事播报编辑东汉末盛凝验年，曹操率领部队去讨伐盘踞在宛城的张绣。当时已经到了中午，烈日当空，天气十分炎热。将士们携带着沉重的捉嘱武器，全身都被汗水浸湿，又热又整盼姜循渴，非常难受，给行军带来甩符凶了严重地提影响。 [2]望梅止渴(4张)曹操见将士们一个个舔着干燥的嘴唇，巴良勉强行走，心里非常焦急。下令队伍原地休息，派人分头到蒸凳员各处去找水。过了好一会，派去的人全都提着空桶回来。原来，这里是一片荒原，没有河流，也没有山泉，根本找不到水。曹操又下令就地挖井，士兵们挥汗挖土，但过了好长时间，也挖不出一滴水。 [2]曹操心想，情况很严重，如果在这里久留，会有更多的人无法坚持下去。曹操略微思索了一下，达炼乌猛地用马鞭指着前边的山坡，大声对手下的将士说：“这个地方我熟悉，翻过前边的山坡，就会有一大片茂盛的杨梅林，到了那里，你们每个人都可以尽情的将杨梅享用个够。” [2]将士们一听说梅子及梅子的酸汁，就自然而然地想像起酸味，从而流出口水，顿时不觉得那么渴了。曹操立即指挥队伍行进，经过一段时间，终于带领队伍成功找到了水源，大家痛痛快快的喝了水，精神焕发的继续行军。 [2]成语寓意播报编辑曹操利用了人对酸梅子的条件反射，让士兵们看到了希望，鼓舞了士气。既解决了士兵们口渴难耐的问题，又加快了行军的速度。这则寓言告诉人们，在遇到困难的时候，不要一味地畏缩不前，应该用对成功的渴望来激励自己，这样就会有勇气去战胜困难，成功的取得往往存在于再坚持一下的努力之中。 [3]成语运用播报编辑成文用法比喻从不切实际的空想中来宽慰自己，眼望梅林，流出口水而解渴。 [2]连动式结构，主要用作宾语、定语等。 [1]运用示例姚雪垠《李自成》：“她不能不在心中承认李信不造反，离开部队，确实是等着就擒，而她指望日后受招安也只是望梅止渴。” [1]陈伯吹《作家楼的窗口》：“生活在离乱的封建社会中的诗人，吟咏出章话般空灵的境界，抒发胸中美好的愿望，是可以理解的，遗憾的是没有实现的可能。说得过分些，只能是望梅止渴的幻想而已。” [1]鲁迅《二心集・张资平氏的“小说学”》：现在我将《张资平全集》和“小说学”的精华，提炼在下面，献这些崇拜家，算是“望梅止渴”云。 [5]巴金《随想录》：“望梅止渴、画饼充饥的年代早已过去，人们要听的是真话。” [5]成语辨析播报编辑望梅止渴—画饼充饥“望梅止渴”与“画饼充饥”意义相近，有时一起连用。但“望梅止渴”比喻愿望无法实现，只能借助想象来安慰自己；而“画饼充饥”则比喻徒有虚名的东西于事无补，也比喻用空想来自我安慰。 [4]新手上路成长任务编辑入门编辑规则本人编辑我有疑问内容质疑在线客服官方贴吧意见反馈投诉建议举报不良信息未通过词条申诉投诉侵权信息封禁查询与解封©2024 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号 京公网安备11000002000001号"
+                    },
+                    {
+                        "id": 2,
+                        "title": "望梅止渴（汉语成语）_百度百科",
+                        "link": "https://baike.baidu.com/item/%E6%9C%9B%E6%A2%85%E6%AD%A2%E6%B8%B4/1448",
+                        "content": "望梅止渴（汉语成语）_百度百科 网页新闻贴吧知道网盘图片视频地图文库资讯采购百科百度首页登录注册进入词条全站搜索帮助首页秒懂百科特色百科知识专题加入百科百科团队权威合作个人中心望梅止渴[wàng méi zhǐ kě]播报讨论上传视频汉语成语展开7个同名词条收藏查看我的收藏0有用+10望梅止渴（拼音wàng méi zhǐ kě）是一则由寓言故事演化而来的成语，成语最早出自《世说新语·假谲》。 [1]望梅止渴指想象杨梅，流出口水而解渴，比喻从不切实际的空想中来宽慰自己； [2]连动式结构，在句子中主要用作宾语、定语等。 [1]中文名望梅止渴拼    音wàng méi zhǐ kě近义词画饼充饥、掩耳盗铃反义词名副其实、实事求是出    处《世说新语·假谲》注    音ㄨㄤˋ ㄇㄟˊ ㄓㄧˇ ㄎㄜˇ语法结构连动式语法属性作宾语、定语目录1成语出处2成语故事3成语寓意4成语运用5成语辨析成语出处播报编辑《世说新语·假谲》：“魏武行役，失汲道，军皆渴，乃令曰：‘前有大梅林，饶子，甘酸可以解渴。’士卒闻之，口皆出水，乘此得及前源。” [1]后世据此典故引申出成语“望梅止渴”。 [1]成语故事播报编辑东汉末年，曹操率领部队去讨伐盘踞在宛城的张绣。当时已经到了中午，烈日当空，天气十分炎热。将士们携带着沉重的武器，全身都被汗水浸察悼霉湿，又热又渴，陵厦驼非常难受，给行军带来立重了严重影响。 [2]望梅止渴(4张)曹操见将士们一个个舔着干燥的嘴唇，勉强行走，心里非常焦急。下令队伍原捉嘱地休息，派人分头到各处去找水。过了好一会，派去的人全都提着空桶回来。原来，这里是一片荒原，没有河流，也没有山泉，根本找不到水。曹操又下令就地挖井，士兵们挥汗挖土，但过了好地提长时间，也挖不出一滴水。 [2]曹操心想，情况很严重，如果在这里久留，会有更多的人无法坚持下去。曹操略微思索了一下，盛凝验猛地用马鞭指着前边的山坡，大声对手下的将士说：“这个地方我熟悉，翻过前边的山坡，就会有一大片茂盛的杨梅林，到了那里，你们每个人都可以尽情的将杨垫霸钻影梅享用个够。” [2]将士们一听说梅子及梅子的酸汁，就自然而然地想像起酸味，从而流出口水，顿时不觉得那么渴了。曹操立即指挥队伍行进，经过一段时间，终于带领队伍成功找到了询蒸霉水源，大家痛痛快快的喝了水，精神焕发的继续行军。 [2]成语寓意播报编辑曹操利用了人对酸梅子的条件反射，让士兵们看到了希望，鼓舞了士气。既解决了士兵们口渴难耐的问题，又加快了行军的速度。这则寓言告诉人们，在遇到困难的时候，不要一味地畏缩不前，应该用对成功的渴望来激励自己，这样就会有勇气去战胜困难，成功的取得往往存在于再坚持一下的努力之中。 [3]成语运用播报编辑成文用法比喻从不切实际的空想中来宽慰自己，眼望梅林，流出口水而解渴。 [2]连动式结构，主要用作宾语、定语等。 [1]运用示例姚雪垠《李自成》：“她不能不在心中承认李信不造反，离开部队，确实是等着就擒，而她指望日后受招安也只是望梅止渴。” [1]陈伯吹《作家楼的窗口》：“生活在离乱的封建社会中的诗人，吟咏出章话般空灵的境界，抒发胸中美好的愿望，是可以理解的，遗憾的是没有实现的可能。说得过分些，只能是望梅止渴的幻想而已。” [1]鲁迅《二心集・张资平氏的“小说学”》：现在我将《张资平全集》和“小说学”的精华，提炼在下面，献这些崇拜家，算是“望梅止渴”云。 [5]巴金《随想录》：“望梅止渴、画饼充饥的年代早已过去，人们要听的是真话。” [5]成语辨析播报编辑望梅止渴—画饼充饥“望梅止渴”与“画饼充饥”意义相近，有时一起连用。但“望梅止渴”比喻愿望无法实现，只能借助想象来安慰自己；而“画饼充饥”则比喻徒有虚名的东西于事无补，也比喻用空想来自我安慰。 [4]新手上路成长任务编辑入门编辑规则本人编辑我有疑问内容质疑在线客服官方贴吧意见反馈投诉建议举报不良信息未通过词条申诉投诉侵权信息封禁查询与解封©2024 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号 京公网安备11000002000001号"
+                    },
+                    {
+                        "id": 3,
+                        "title": "望梅止渴故事简介_望梅止渴历史评价_望梅止渴故事典故_望梅止渴-趣历史",
+                        "link": "https://www.qulishi.com/huati/wangmeizhike/",
+                        "content": "望梅止渴故事简介_望梅止渴历史评价_望梅止渴故事典故_望梅止渴-趣历史历史话题 MILITARY TOPIC 探寻历史风云旧事望梅止渴的成语源于南朝宋刘义庆《世说新语·假谲》：“魏武行役，失汲道，三军皆渴，乃令曰：\" 前有大梅林，饶子，甘酸可以解渴。\"士卒闻之，口皆出水，乘此得及前源。”原意是梅子酸,人想吃梅子就会流涎,因而止渴。后比喻愿望无法实现,用空想安慰自己。东汉末年，曹操带兵去攻打张绣，时值盛夏，太阳火辣辣地挂在空中，散发着巨大的热量，大地都快被烤焦了。曹操的军队已经走了很多天了，十分疲乏。这一路上又都是荒山秃岭，没有人烟，方圆数十里都没有水源。将士们想尽了办法，始终都弄不到一滴水喝。头顶烈日，战士们一个个被晒得头昏眼花，大汗淋淋，可是又找不到水喝，大家都口干舌燥，感觉喉咙里好像着了火，许多人的嘴唇都干裂得不成样子，鲜血直淌。望梅止渴——比喻愿望无法实现,用空想安慰自己。东汉末年，曹操带兵去攻打张绣，一路行军，走得非常辛苦。时值盛夏，太阳火辣辣地挂在空中，散发着巨大的热量，大地都快被烤焦了。曹操的军队已经走了很多天了，十分疲乏。这一路上又都是荒山秃岭，没有人烟，方圆数十里都没有水源。将士们想尽了办法，始终都弄不到一滴水喝。头顶烈日，战士们一个个被晒得头昏眼花，大汗淋淋，可是又找不到水喝，大家都口干舌燥，感觉喉咙里好像着了火，许多人的嘴唇都干裂得不成样子，鲜血直淌。每走几里路，就有人倒下中暑死去，就是身体强壮的士兵，也渐渐地快支持不住了。　　曹操目睹这样的情景，心里非常焦急。他策马奔向旁边一个山岗，在山岗上极目远眺，想找个有水的地方。可是他失望地发现，龟裂的土地一望无际，干旱的地区大得很。再回头看看士兵，一个个东倒西歪，早就渴得受不了，看上去怕是难得再走多远了。　　曹操是个聪明的人，他在心里盘算道：这一下可糟糕了，找不到水，这么耗下去，不但会贻误战机，还会有不少的人马要损失在这里，想个什么办法来鼓舞士气，激励大家走出干旱地带呢？　　曹操想了又想，突然灵机一动，脑子里蹦出个好点子。他就在山岗上，抽出令旗指向前方，大声喊道：“前面不远的地方有一大片梅林，结满了又大又酸又甜的梅子，大家再坚持一下，走到那里吃到梅子就能解渴了！”　　战士们听了曹操的话，想起梅子的酸味，就好像真的吃到了梅子一样，口里顿时生出了不少口水，精神也振作起来，鼓足力气加紧向前赶去。就这样，曹操终于率领军队走到了有水的地方。　　曹操利用人们对梅子酸味的条件反射，成功地克服了干渴的困难。可见人们在遇到困难时，不要一味畏惧不前，应该时时用对成功的渴望来激励自己，就会有足够的勇气去战胜困难，到达成功的彼岸。  免责声明：以上内容源自网络，版权归原作者所有，如有侵犯您的原创版权请告知，我们将尽快删除相关内容。 ...查看更多望梅止渴的典故 成语望梅止渴的主人公是谁？望梅止渴典故：东汉末年，曹操带兵去攻打张绣，一路行军，走得非常辛苦。时值盛夏，太阳火辣辣地挂在空中，散发着巨大的热量，大地都快被烤焦了。曹操的军队已经走了很多天了，十分疲乏。这一路上又都是荒山秃岭，没有人烟，方圆数十里都没有水源。将士们想尽了办法，始终都弄不到一滴水喝。头顶烈日，战士们一个个被晒得头昏眼花，大汗淋淋，可是又找不到水喝，大家都口干舌燥，感觉喉咙里好像着了火，许多人的嘴唇都干裂得不成样子，鲜血直淌。每走几里路，就有人倒下中暑死去，就是身体强壮的士兵，也渐渐地快支持不住了。　　曹操目睹这样的情景，心里非常焦急。他策马奔向旁边一个山岗，在山岗上极目远眺，想找个有水的地方。可是他失望地发现，龟裂的土地一望无际，干旱的地区大得很。再回头看看士兵，一个个东倒西歪，早就渴得受不了，看上去怕是难得再走多远了。　　曹操是个聪明的人，他在心里盘算道：这一下可糟糕了，找不到水，这么耗下去，不但会贻误战机，还会有不少的人马要损失在这里，想个什么办法来鼓舞士气，激励大家走出干旱地带呢？　　曹操想了又想，突然灵机一动，脑子里蹦出个好点子。他就在山岗上，抽出令旗指向前方，大声喊道：“前面不远的地方有一大片梅林，结满了又大又酸又甜的梅子，大家再坚持一下，走到那里吃到梅子就能解渴了！”　　战士们听了曹操的话，想起梅子的酸味，就好像真的吃到了梅子一样，口里顿时生出了不少口水，精神也振作起来，鼓足力气加紧向前赶去。就这样，曹操终于率领军队走到了有水的地方。　　曹操利用人们对梅子酸味的条件反射，成功地克服了干渴的困难。可见人们在遇到困难时，不要一味畏惧不前，应该时时用对成功的渴望来激励自己，就会有足够的勇气去战胜困难，到达成功的彼岸。  免责声明：以上内容源自网络，版权归原作者所有，如有侵犯您的原创版权请告知，我们将尽快删除相关内容。 ...查看更多\"望梅止渴\"是大家熟悉的一个成语，它出典于三国时期的一个小故事，在《三国演义》第二"
+                    }
+                ]
+            }
+        ],
+        "chat_title": " 望梅止渴典故的来历",
+        "uuid": "c814628b-f48b-486a-b515-f1e3a9d97869"
+    }
+]
