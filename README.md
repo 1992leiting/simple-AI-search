@@ -22,8 +22,12 @@
 conda create -n ai_search python=3.10
 conda activate ai_search
 pip install -r requirements.txt
+```
+> 记得修改```llm.py```中openai api的base url和api key，然后启动streamlit服务即可。
+```
 streamlit run chat_main.py --server.port 8080
 ```
+> 注意：默认的searXNG服务地址可能需要科学上网才能访问，也可以选择自行搭建searXNG服务。
 
 # 优化方向
 - UI：streamlit只能提供最简单的UI，更高性能、更丰富的UI需要使用其他框架
